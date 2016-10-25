@@ -1,0 +1,17 @@
+
+.text {}
+
+.theorem {
+	border : 4px red solid
+	
+}
+
+.proposition {
+	border : 4px lightred solid
+}
+
+.corollary {}
+
+.example {
+	border : 4px blue solid
+}
